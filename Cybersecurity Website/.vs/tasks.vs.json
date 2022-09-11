@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Database",
+      "appliesTo": "Cybersecurity/App_Data/Database.mdf",
+      "type": "launch"
+    }
+  ]
+}
